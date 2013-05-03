@@ -31,7 +31,7 @@ Give the output as JSON. Choose an appropriate representation of the inputs and 
 
 Use [Highcharts](http://www.highcharts.com/) to produce a self-contained HTML file giving a [histogram](http://en.wikipedia.org/wiki/Histogram) displaying how many anagrams were generated per word. By "self-contained", the numeric data should be contained within the file- it's okay to call out to the jquery and highcharts library.
 
-Since we don't expect you to have experience with Highcharts or graphing libraries, [here's an example](visualization-example.html). It should be relatively easy to replace values to communicate this information.
+Since we don't expect you to have experience with Highcharts or graphing libraries, [here's an example](visualization-example.html) ([view in browser](http://htmlpreview.github.io/?https://github.com/adhoclabs/interview-code-tests/blob/master/anagrams/visualization-example.html)). It should be relatively easy to replace values to communicate this information.
 
 ## Restrictions
 

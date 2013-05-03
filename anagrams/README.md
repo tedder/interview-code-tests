@@ -5,9 +5,9 @@ An [anagram](https://en.wikipedia.org/wiki/Anagram) requires letters to be rearr
 Specifically, output anagrams should be valid words in a chosen language.
 
 ## Goals
-This is an interesting problem in terms of *performance*. What is the performance characteristic of the letter permutation? What is the performance characteristic of validity checking?
+This is an interesting problem in terms of **performance**. What is the performance characteristic of the letter permutation? What is the performance characteristic of validity checking?
 
-This problem can also demonstrate effective *unit tests*.
+This problem can also demonstrate effective **unit tests**.
 
 ## Input
 
@@ -21,7 +21,7 @@ Print the input strings and valid outputs, one input per line. The input/output 
 
 ## Unit tests
 
-In addition to solving the problem, your solution *must* include basic unit tests using a common framework in the language of your choice. This should not require access to external resources, such as services/APIs or files outside of your repository.
+In addition to solving the problem, your solution **must** include basic unit tests using a common framework in the language of your choice. This should not require access to external resources, such as services/APIs or files outside of your repository.
 
 ### Optional: JSON
 
@@ -39,8 +39,8 @@ Use the language specified by your interviewer. Generally you should not use ext
 
 ### Extended libraries allowed by language:
 
-* *Java*: reusable components from [Apache Commons](http://commons.apache.org/components.html) are acceptable, as is [GSON](https://code.google.com/p/google-gson/).
-* *Python*: no external libraries are necessary.
+* **Java**: reusable components from [Apache Commons](http://commons.apache.org/components.html) are acceptable, as is [GSON](https://code.google.com/p/google-gson/).
+* **Python**: no external libraries are necessary.
 
 
 ## Example

@@ -1,0 +1,47 @@
+<html>
+<head>
+ <title>simple histogram chart</title>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+ <script src="http://code.highcharts.com/highcharts.js"></script>
+ <style type="text/css">
+#histo {
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+</style>
+ <script type="text/javascript">
+ $(document).ready(function() {
+	$('#histo').highcharts({
+   title: {"text": "histerrific"},
+   series: [ {
+     "data": [918, 1883, 723, 1350, 215],
+    }
+   ],
+   chart: {"type": "column", "backgroundColor": "#e1e1d7"},
+   plotOptions: {
+    column: {
+     color: "#89a54e", "pointPadding": 0, "shadow": false, "groupPadding": 0, "borderWidth": 0}
+    },
+   xAxis: {
+    categories: [0, 100, 200, 300, 400]},
+   legend: {enabled: false}
+
+
+
+// end paste
+
+	});
+ });
+ </script>
+
+</head>
+
+<body bgcolor="#ababa3">
+<div id="histo"></div>
+
+</body>
+</html>
+

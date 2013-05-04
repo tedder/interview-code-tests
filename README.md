@@ -4,6 +4,11 @@ Code tests for interviewing software engineering candidates
 This is the start of a repository for coding test problems that can be given to software engineering candidates.
 
 
+# Undocumented/half-baked ideas
+
+* Some sort of problem that is already in a framework but needs modification to add features. More accuriately resembles real-world.
+* Code that checks this repository for licensing information.
+
 
 # Frequently asked questions
 
@@ -23,3 +28,6 @@ Face-to-face ("whiteboard") style problemsolving is effective to ensure a candid
 
 # Sources used
 * [Streamtech problem set](http://streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
+
+# License
+As with all content and code included in this repository, it is licensed under CC-BY (content) and the MIT license found in the root of this repository.

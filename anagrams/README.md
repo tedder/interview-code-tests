@@ -52,3 +52,6 @@ As an example, this command should output anagrams on most platforms, given a di
 
 # Source
 Thanks to [streamtech](http://www.streamtech.nl/problemset/148.html) for the idea behind this.
+
+# License
+As with all content and code included in this repository, it is licensed under CC-BY (content) and the MIT license found in the root of this repository.

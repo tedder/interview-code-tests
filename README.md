@@ -30,4 +30,6 @@ Face-to-face ("whiteboard") style problemsolving is effective to ensure a candid
 * [Streamtech problem set](http://streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
 
 # License
-All content and code included in this repository is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/) (content) and the [MIT license](http://opensource.org/licenses/mit-license.php) (code) found in the root of this repository in [LICENSE.txt](/license.txt).
+All content and code included in this repository is licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) (content) and the [MIT license](http://opensource.org/licenses/mit-license.php) (code) found in the root of this repository in [LICENSE.txt](license.txt).
+
+CC-BY 3.0 for content requires **attribution**. Unless specifically listed in other content, attribution should consist of a link to (http://adhoclabs.co) and a contributor name of "Ad Hoc Labs".

@@ -26,8 +26,13 @@ Face-to-face ("whiteboard") style problemsolving is effective to ensure a candid
 
 ## Why share our code problems?
 
+(insert text about sharing here)
+
 # Sources used
 * [Streamtech problem set](http://streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
+
+# Other sources and sites
+* [Geekinterview.com Interview Questions](http://www.geekinterview.com/Interview-Questions) (over 25k questions with answers!)
 
 # License
 All content and code included in this repository is licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) (content) and the [MIT license](http://opensource.org/licenses/mit-license.php) (code) found in the root of this repository in [LICENSE.txt](license.txt).

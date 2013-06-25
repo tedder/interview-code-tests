@@ -30,4 +30,4 @@ Face-to-face ("whiteboard") style problemsolving is effective to ensure a candid
 * [Streamtech problem set](http://streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
 
 # License
-As with all content and code included in this repository, it is licensed under CC-BY (content) and the MIT license found in the root of this repository.
+All content and code included in this repository is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/) (content) and the [MIT license](http://opensource.org/licenses/mit-license.php) (code) found in the root of this repository in [LICENSE.txt](/license.txt).

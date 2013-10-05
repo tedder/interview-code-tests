@@ -13,7 +13,7 @@ This problem can also demonstrate effective **unit tests**.
 
 The input file will contain a list of input phrases, one per line.
 
-A dictionary will be given as an argument.
+A dictionary file will be given as an argument. This file contains one word per line.
 
 ## Expected output
 

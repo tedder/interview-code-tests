@@ -29,7 +29,7 @@ Face-to-face ("whiteboard") style problemsolving is effective to ensure a candid
 (insert text about sharing here)
 
 # Sources used
-* [Streamtech problem set](http://streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
+* [Streamtech problem set](http://web.archive.org/web/20130502164931/http://www.streamtech.nl/site/problem+set) - this is a great list of problems that can be used. Some of the problems here are based on the Streamtech list.
 
 # Other sources and sites
 * [Geekinterview.com Interview Questions](http://www.geekinterview.com/Interview-Questions) (over 25k questions with answers!)
